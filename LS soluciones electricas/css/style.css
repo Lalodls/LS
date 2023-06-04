@@ -1,0 +1,66 @@
+*{
+    padding: 7;
+    margin: 5;
+    background-color: burlywood;
+}
+
+#redesSociales{
+    text-align: right;
+}
+
+#titPage{
+    text-align: right;
+    color: #20234b;
+}
+
+#titPresent{
+    text-align: right;
+    color: #161346;
+}
+
+#header{
+    border: 10px #9c7d16 solid;
+}
+
+.pagenosot{
+    margin-top: 0px;
+}
+
+.nav{
+    text-align: right;
+    color: brown;
+}
+
+.navItem{
+    text-align: right;
+    display: inline;
+    margin: 10px;
+    margin-left: 1px;
+}
+
+.navItem > a {
+    text-decoration: none;
+    color: #4b42c0
+}
+
+#footer{
+    border: 10px solid #9c7d16;
+    /* background-color */
+}
+
+#footerinfo{
+    display: inline;
+    margin: 30px;;
+    margin-top: 5px;
+}
+
+#derechosDeAutor{
+    text-decoration: none;
+    color: gray;
+    margin-bottom: 1px;
+}
+
+#presentpage{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
